@@ -1,1 +1,17 @@
 .env
+node_modules
+
+
+# logs
+*.log
+
+# Compiled binary files
+*.exe
+*.out
+
+# macOs specific files
+.DS_Store
+
+# Go specific files
+# Compiled binary for packages and commands
+/bin/
